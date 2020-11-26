@@ -2,7 +2,7 @@
 
 To run this project Net 5 SDK must be installed on your pc.
 
-helpfull link:
+helpful link:
 https://dotnet.microsoft.com/download/dotnet/5.0 
 
 This project is a brief example of Net 5's web api part of a Betterware technical exam.
