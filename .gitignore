@@ -22,11 +22,7 @@ mono_crash.*
 obj
 bin
 appsettings.json
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
